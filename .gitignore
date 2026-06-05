@@ -1,10 +1,11 @@
 # Local .terraform directories
 .terraform/
-.terraform.lock.hcl
-rg.tf
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
+rg.tf
+abc.txt
 
 # Crash log files
 crash.log
